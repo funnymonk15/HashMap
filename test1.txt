@@ -1,0 +1,6 @@
+apple 3
+banana 4
+pear 2
+apple 2
+pear 3
+pear 2
